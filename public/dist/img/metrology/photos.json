@@ -1,0 +1,19 @@
+[
+    { "src": "pesa_analogica" },
+    { "src": "manometro" },
+    { "src": "multimetro" },
+    { "src": "pinza_digital_clamp" },
+    { "src": "pinza_digital_surtek" },
+    { "src": "pinza_digital_zotek" },
+    { "src": "metro_laser" },
+    { "src": "nivel_leica" },
+    { "src": "nivel_laserliner_quad" },
+    { "src": "nivel_laserliner_cross" },
+    { "src": "nivel_rotac_leica" },
+    { "src": "mira" },
+    { "src": "cinta_3m" },
+    { "src": "cinta_5m" },
+    { "src": "cinta_8m" },
+    { "src": "escuadra" },
+    { "src": "metro_madera" }
+]

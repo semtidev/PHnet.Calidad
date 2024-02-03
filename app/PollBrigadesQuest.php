@@ -1,0 +1,20 @@
+<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class PollBrigadesQuest extends Model
+{
+    protected $table = 'poll_brigades_quest';
+    public $timestamps = false;
+
+    /**
+     * The attributes that are mass assignable.
+     *
+     * @var array
+     */
+    protected $fillable = [
+        'order', 'question', 'issue', 'active',
+    ];
+}
